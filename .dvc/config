@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = /var/folders/6n/msg452td6d54zgdwpjk974mw0000gn/T/dvc-storage
